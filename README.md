@@ -1,6 +1,6 @@
 <b>Kotlin KMM with clean architecture</b>
 
-Shared repo must be driven completely by kotlin language
+Shared must be driven completely by kotlin language
 
 References: 
 
